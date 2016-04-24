@@ -11,3 +11,6 @@ GitHub Page of me
     * [PictMap](https://itunes.apple.com/us/app/pictmap/id712945065?mt=8)
     * [Hodogaya History Walking Map](https://itunes.apple.com/us/app/hodogaya-history-walking-map/id720126011?l=ja&ls=1&mt=8)
 
+# Other than programming
+* entomophagy
+    * [entomophagy group on facebook](https://www.facebook.com/groups/entomophagy/) 
