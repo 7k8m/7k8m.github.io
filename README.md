@@ -16,3 +16,9 @@ GitHub Page of me
 * entomophagy
     * [entomophagy group on facebook](https://www.facebook.com/groups/entomophagy/) 
     * [昆虫料理研究会 on facebook](https://www.facebook.com/insectcuisine/)
+
+# Contact
+* Facebook
+    * https://www.facebook.com/Tomohito.Nakayama
+* twitter
+    * https://twitter.com/7k8m
