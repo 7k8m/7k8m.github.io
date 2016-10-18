@@ -13,9 +13,12 @@ GitHub Page of me
     * [Hodogaya History Walking Map](https://itunes.apple.com/us/app/hodogaya-history-walking-map/id720126011?l=ja&ls=1&mt=8)
 
 # Other than programming
+* MikeKiji
+    * [みけきじ](http://toy.7k8m.com/mikekiji_pict/)
 * entomophagy
     * [entomophagy group on facebook](https://www.facebook.com/groups/entomophagy/) 
     * [昆虫料理研究会 on facebook](https://www.facebook.com/insectcuisine/)
+
 
 # Contact
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
