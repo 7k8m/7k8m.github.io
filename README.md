@@ -18,7 +18,5 @@ GitHub Page of me
     * [昆虫料理研究会 on facebook](https://www.facebook.com/insectcuisine/)
 
 # Contact
-* Facebook
-    * https://www.facebook.com/Tomohito.Nakayama
-* twitter
-    * https://twitter.com/7k8m
+* [Facebook](https://www.facebook.com/Tomohito.Nakayama)
+* [twitter](https://twitter.com/7k8m)
