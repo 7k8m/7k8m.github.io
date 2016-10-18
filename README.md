@@ -14,7 +14,7 @@ GitHub Page of me
 
 # Other than programming
 * MikeKiji
-    * [みけきじ](http://toy.7k8m.com/mikekiji_pict/)
+   * [みけきじ](http://toy.7k8m.com/mikekiji_pict/)
 * entomophagy
     * [entomophagy group on facebook](https://www.facebook.com/groups/entomophagy/) 
     * [昆虫料理研究会 on facebook](https://www.facebook.com/insectcuisine/)
