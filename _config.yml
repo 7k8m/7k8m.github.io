@@ -1,0 +1,8 @@
+title: 7k8m.GitHub.io
+description: GitHub Page of me
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
