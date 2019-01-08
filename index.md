@@ -27,5 +27,5 @@ GitHub Page of me
 # Contact
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
 * [twitter](https://twitter.com/7k8m)
-* [GitHub] (https://github.com/7k8m/)
-* [Bitbucket] (https://bitbucket.org/7k8m/)
+* [GitHub](https://github.com/7k8m/)
+* [Bitbucket](https://bitbucket.org/7k8m/)
