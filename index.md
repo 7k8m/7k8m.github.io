@@ -1,4 +1,4 @@
-* # 7k8m.github.io
+# 7k8m.github.io
 GitHub Page of me
 
 # My programming works
@@ -8,10 +8,13 @@ GitHub Page of me
 * .NET
     * [DirectSQL](https://github.com/7k8m/DirectSQL)
     * [OAuthLib](http://oauthlib.codeplex.com) 
+* Java
+    * [Some issues of Apache Derby](https://issues.apache.org/jira/issues/?jql=project%20%3D%20DERBY%20AND%20assignee%20%3D%20%22Tomohito%20Nakayama%22%20ORDER%20BY%20%20priority%20DESC%2C%20updated%20DESC) 
 * iPhone App
     * [Walk Camera](https://itunes.apple.com/gb/app/walkcamera/id968281469?mt=8)
     * [PictMap](https://itunes.apple.com/us/app/pictmap/id712945065?mt=8)
     * [Hodogaya History Walking Map](https://itunes.apple.com/us/app/hodogaya-history-walking-map/id720126011?l=ja&ls=1&mt=8)
+    
 
 # Other than programming
 * MikeKiji
