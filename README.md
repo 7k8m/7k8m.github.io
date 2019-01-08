@@ -1,4 +1,4 @@
-* # 7k8m.github.io
+# 7k8m.github.io
 GitHub Page of me
 
 # My programming works
