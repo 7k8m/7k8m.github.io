@@ -10,7 +10,7 @@ GitHub Page of me
     * [OAuthLib](http://oauthlib.codeplex.com) 
 * Java
     * [Some issues of Apache Derby](https://issues.apache.org/jira/issues/?jql=project%20%3D%20DERBY%20AND%20assignee%20%3D%20%22Tomohito%20Nakayama%22%20ORDER%20BY%20%20priority%20DESC%2C%20updated%20DESC) 
-* Deno
+* deno
     * https://github.com/denoland/deno/pull/2695
 * iPhone App
     * [Walk Camera](https://itunes.apple.com/gb/app/walkcamera/id968281469?mt=8)
