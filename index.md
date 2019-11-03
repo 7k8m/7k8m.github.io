@@ -10,15 +10,15 @@ GitHub Page of me
     * [OAuthLib](http://oauthlib.codeplex.com) 
 * Java
     * Apache Derby
-       * https://github.com/apache/derby/commits?author=7k8m
+       * [My commits](https://github.com/apache/derby/commits?author=7k8m)
 * deno
-    * https://github.com/denoland/deno/commits?author=7k8m
+    * [My commits](https://github.com/denoland/deno/commits?author=7k8m)
 * iPhone App
     * [Walk Camera](https://itunes.apple.com/gb/app/walkcamera/id968281469?mt=8)
     * [PictMap](https://itunes.apple.com/us/app/pictmap/id712945065?mt=8)
     * [Hodogaya History Walking Map](https://itunes.apple.com/us/app/hodogaya-history-walking-map/id720126011?l=ja&ls=1&mt=8)
 * osquery
-    * https://github.com/osquery/osquery/commits?author=7k8m
+    * [My commits](https://github.com/osquery/osquery/commits?author=7k8m)
     
 
 # Other than programming
