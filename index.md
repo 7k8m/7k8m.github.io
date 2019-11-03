@@ -9,9 +9,10 @@ GitHub Page of me
     * [DirectSQL](https://github.com/7k8m/DirectSQL)
     * [OAuthLib](http://oauthlib.codeplex.com) 
 * Java
-    * [Some issues of Apache Derby](https://issues.apache.org/jira/issues/?jql=project%20%3D%20DERBY%20AND%20assignee%20%3D%20%22Tomohito%20Nakayama%22%20ORDER%20BY%20%20priority%20DESC%2C%20updated%20DESC) 
+    * Apache Derby
+      * https://github.com/apache/derby/commits?author=7k8m
 * deno
-    * [Implement function convertLineEndingsToNative in blob.ts](https://github.com/denoland/deno/pull/2695)
+    * https://github.com/denoland/deno/commits?author=7k8m
 * iPhone App
     * [Walk Camera](https://itunes.apple.com/gb/app/walkcamera/id968281469?mt=8)
     * [PictMap](https://itunes.apple.com/us/app/pictmap/id712945065?mt=8)
